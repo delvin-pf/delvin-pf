@@ -7,9 +7,12 @@
 I'm a junior Python developer
 
 
-- **Courses**  :mortar_board: - I have certifications in Python with frameworks like Django, Flask and libraries like Selenium, Pandas, Kivy and many others.
+- **Courses**  :mortar_board: 
+  - I have certifications in Python with frameworks like Django, Flask and libraries like Selenium, Pandas, Kivy and many others.
+  - Backend with Node.js
 
-- **Learning** :pencil: - Backend with Node.js
+
+- **Learning** :pencil: Full-Stack Development in Hiring Coders #3
 
 
 
