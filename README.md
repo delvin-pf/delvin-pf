@@ -16,17 +16,17 @@ I'm a junior Python developer
 ## Tecnologies
 
 <div >
-  <img src="https://skillicons.dev/icons?i=py&theme=light" />
-  <img src="https://skillicons.dev/icons?i=selenium,fastapi,flask,django,tensorflow&theme=light" />
+  <img src="https://skillicons.dev/icons?i=py&theme=light" title="Python" style="width: 70px; "/>
+  <img src="https://skillicons.dev/icons?i=selenium,fastapi,flask,django,tensorflow&theme=light" alt="selenium,fastapi,flask,django,tensorflow"/>
 </div>
 <br>
 <div > 
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" style="width: 70px;" />
   <img src="https://skillicons.dev/icons?i=express,apollo" />
 </div>
 <br>
 <div > 
-  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=javascript" style="width: 70px;" />
   <img src="https://skillicons.dev/icons?i=react,styledcomponents" />
 </div>
 <br>
