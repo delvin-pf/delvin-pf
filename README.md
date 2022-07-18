@@ -13,7 +13,26 @@ I'm a junior Python developer
 
 
 - **Learning** :pencil: Full-Stack Development in Hiring Coders #3
+## Tecnologies
 
+<div >
+  <img src="https://skillicons.dev/icons?i=py&theme=light" />
+  <img src="https://skillicons.dev/icons?i=selenium,fastapi,flask,django,tensorflow&theme=light" />
+</div>
+<br>
+<div > 
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express,apollo" />
+</div>
+<br>
+<div > 
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=react,styledcomponents" />
+</div>
+<br>
+<div > 
+  <img src="https://skillicons.dev/icons?i=ts,git,docker,mongodb,postgres,mysql,firebase,graphql,html,css,bootstrap,tailwind&theme=light" />
+</div>
 
 
 <!---
