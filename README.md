@@ -4,15 +4,20 @@
 
 ### About me
 
-I'm a junior Python developer
+I'm a junior Full-Stack developer
 
 
-- **Courses**  :mortar_board: 
-  - I have certifications in Python with frameworks like Django, Flask and libraries like Selenium, Pandas, Kivy and many others.
+- **Courses and Certifications**  :mortar_board: 
+  - Python Impressionador with frameworks like Django, Flask, FastAPI and libraries like Selenium, Pandas, Kivy and many others.
   - Backend with Node.js
+  - Trilha de desenvolvimento Full-Stack
+  - Trilha de VTEXIO, AWS, DevOps e Digital E-Commerce 
 
 
-- **Learning** :pencil: Full-Stack Development in Hiring Coders #3
+- **Learning** :pencil: 
+  - Docker
+  - TDD
+  - BDD
 ## Tecnologies
 
 <div >
